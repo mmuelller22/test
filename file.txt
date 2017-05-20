@@ -1,0 +1,1 @@
+abc\nversion=1.0.0\n
